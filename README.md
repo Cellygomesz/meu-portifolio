@@ -2,7 +2,7 @@
 
 <br>
 
-Apesar de preferir alocar todos os meus projos aqui no github, apenas por diversão resolvi criar uma simulação de como seria meu portifólio. Foi um projeto muito interessante em que pude aprender mais sobre Interfaces.
+Apesar de preferir alocar todos os meus projetos aqui no github, apenas por diversão resolvi criar uma simulação de como seria meu portifólio. Foi um projeto muito interessante em que pude aprender mais sobre Interfaces.
 
 <br>
 
