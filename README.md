@@ -1,4 +1,4 @@
-# 💻 Meu Portifólio (ou quae isso)
+# 💻 Meu Portifólio (ou quase isso)
 
 <br>
 
